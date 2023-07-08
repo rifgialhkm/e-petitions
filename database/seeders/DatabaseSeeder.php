@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Models\Author;
 use App\Models\Petition;
 use Illuminate\Database\Seeder;
 
